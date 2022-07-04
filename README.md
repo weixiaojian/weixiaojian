@@ -2,8 +2,6 @@
 
 :man_technologist:  [我的博客](http://blog.imwj.club/)
 
-🌱 I’m currently learning ...
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![weixiaojian's GitHub stats](https://github-readme-stats.vercel.app/api?username=weixiaojian&show_icons=true&theme=dark)](https://github.com/weixiaojian)

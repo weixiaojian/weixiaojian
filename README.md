@@ -3,13 +3,11 @@
 :man_technologist:  [我的博客](http://blog.imwj.club/)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![weixiaojian's GitHub stats](https://github-readme-stats.vercel.app/api?username=weixiaojian&show_icons=true)](https://github.com/weixiaojian)
-<img align="" height="198px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weixiaojian" />
 
 | <a href="https://github.com/weixiaojian"><img align="center" src="https://github-readme-stats.vercel.app/api?username=weixiaojian&show_icons=true&include_all_commits=true&hide_border=true" alt="weixiaojian github stats" /></a> | <a href="https://github.com/weixiaojian"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weixiaojian&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<!--
+
 **weixiaojian/weixiaojian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

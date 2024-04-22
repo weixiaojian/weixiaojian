@@ -8,9 +8,9 @@
 | ------------- | ------------- |
 
 
-![snk](https://raw.githubusercontent.com/imyzt/imyzt/output/github-contribution-grid-snake.svg)
+![snk](https://raw.githubusercontent.com/weixiaojian/weixiaojian/weixiaojian/github-contribution-grid-snake.svg)
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/imyzt/count.svg" />
+  <img src="https://profile-counter.glitch.me/weixiaojian/count.svg" />
 </p>

@@ -8,7 +8,7 @@
 | ------------- | ------------- |
 
 
-![snk](https://raw.githubusercontent.com/weixiaojian/weixiaojian/output/github-contribution-grid-snake.svg)
+![snk](https://raw.githubusercontent.com/imyzt/imyzt/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   Visitor count<br>
